@@ -4,5 +4,3 @@
 # Install Java and other dependencies by apt-get
 ./scripts/installDependencies.sh
 ./scripts/installBazel.sh
-
-
